@@ -7,4 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinipalinkas&size_weight=0.5&count_weight=0.5)
 
 
-#### Sempre fui apaixonado por tecnologia, tanto na parte de hardware quanto na de software, o que naturalmente me conduziu ao mundo da programação. Considero-me um aprendiz em várias linguagens, com foco atual no estudo do C# para o Desenvolvimento de Jogos.
+#### Sempre fui apaixonado por tecnologia, tanto na parte de hardware quanto na de software, o que naturalmente me conduziu ao mundo da programação. Considero-me um aprendiz em várias linguagens.
