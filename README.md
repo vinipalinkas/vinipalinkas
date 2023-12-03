@@ -1,16 +1,22 @@
 ### Olá! Devs 👋
+
 ---------------------------------------------------------------------------
+
 #### Me chamo Vinicius Palinkas, pode me chamar pelo meu sobrenome!
 
 ##### • 📍Localização: Ribeirão Preto, São Paulo
 ##### • 🎂 Idade: 19 anos
 ##### • 💻 Profissão: Desenvolvedor Junior Front End
+
 ---------------------------------------------------------------------------
+
 ### Como entrar em contato comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-palinkas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinipalinkas/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinipalinkas/)
+
 ---------------------------------------------------------------------------
+
 ### Ferramentas e Tecnologias
 #### Que domínio: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,8 +33,7 @@
 #### Que estou aprendendo:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
----------------------------------------------------------------------------
-### Formação
 
+---------------------------------------------------------------------------
 
 #### Sempre fui apaixonado por tecnologia, tanto na parte de hardware quanto na de software, o que naturalmente me conduziu ao mundo da programação. Considero-me um aprendiz em várias linguagens.
