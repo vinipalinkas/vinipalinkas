@@ -2,9 +2,9 @@
 ---------------------------------------------------------------------------
 #### Me chamo Vinicius Palinkas, pode me chamar pelo meu sobrenome!
 
-#### • 📍Localização: Ribeirão Preto, São Paulo
-#### • 🎂 Idade: 19 anos
-#### • 💻 Profissão: Desenvolvedor Junior Front End
+##### • 📍Localização: Ribeirão Preto, São Paulo
+##### • 🎂 Idade: 19 anos
+##### • 💻 Profissão: Desenvolvedor Junior Front End
 ---------------------------------------------------------------------------
 #### Como entrar em contato comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-palinkas/)
