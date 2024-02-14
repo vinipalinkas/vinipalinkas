@@ -2,11 +2,11 @@
 
 ---------------------------------------------------------------------------
 
-#### Me chamo Vinicius Palinkas, pode me chamar pelo meu sobrenome!
+#### Me chamo Vinicius Palinkas e estou iniciando minha carreria no Desenvolvimento.
 
 ##### • 📍Localização: Ribeirão Preto, São Paulo
 ##### • 🎂 Idade: 19 anos
-##### • 💻 Profissão: Desenvolvedor Junior Front End
+##### • 💻 Profissão: Desenvolvedor Junior Back End
 
 ---------------------------------------------------------------------------
 
@@ -18,22 +18,16 @@
 ---------------------------------------------------------------------------
 
 ### Ferramentas e Tecnologias
-#### Que domínio: 
+#### Tenho Experiência: 
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRRE-SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Tenho Experiência: 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
 #### Que estou aprendendo:
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GIT]
 
 ---------------------------------------------------------------------------
-
-#### Sempre fui apaixonado por tecnologia, tanto na parte de hardware quanto na de software, o que naturalmente me conduziu ao mundo da programação. Considero-me um aprendiz em várias linguagens.
