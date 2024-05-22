@@ -2,7 +2,7 @@
 
 ##### • 📍Localização: Ribeirão Preto, São Paulo
 ##### • 🎂 Idade: 20 anos
-##### • 💻 Profissão: Desenvolvedor Junior Back End
+##### • 💻 Profissão: Analista de Infraestrutura JR
 
 ---------------------------------------------------------------------------
 
