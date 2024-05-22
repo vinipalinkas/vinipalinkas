@@ -1,11 +1,7 @@
-### Olá! Devs 👋
-
 ---------------------------------------------------------------------------
 
-#### Me chamo Vinicius Palinkas e estou iniciando minha carreria no Desenvolvimento.
-
 ##### • 📍Localização: Ribeirão Preto, São Paulo
-##### • 🎂 Idade: 19 anos
+##### • 🎂 Idade: 20 anos
 ##### • 💻 Profissão: Desenvolvedor Junior Back End
 
 ---------------------------------------------------------------------------
